@@ -5,6 +5,14 @@ It supports task creation, listing, deletion, basic statistics, backup functiona
 
 Built using `python-telegram-bot`, Flask, and SQLAlchemy with SQLite persistent storage.
 
+---
+
+## 📸 Bot Preview
+
+![@ToDooList_bot pic](https://github.com/user-attachments/assets/603959d1-fee0-4e65-97c5-19f6dd5b162d)
+
+---
+
 ## 🚀 Features
 
 - ✅ Add new tasks
